@@ -1,3 +1,31 @@
+![](http://latex.codecogs.com/gif.latex?\\frac{\\partial J}{\\partial \\theta_k^{(j)}}=\\sum_{i:r(i,j)=1}{\\big((\\theta^{(j)})
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
+
+ 
+
 [2018/11/5-2018/11/11](#20181105-20181111)
 
 - [本周进展](#%E6%9C%AC%E5%91%A8%E8%BF%9B%E5%B1%95)
@@ -6,7 +34,9 @@
 
 - [下周计划](#%E4%B8%8B%E5%91%A8%E8%AE%A1%E5%88%92)
 
+```
 
+```
 
 # 2018/11/05-2018/11/11
 
@@ -50,7 +80,6 @@
   $$
   G\in\mathbb{R}^{P\times Q\times R}；
   $$
-  
 
   ------
 
@@ -92,7 +121,7 @@
   $$
   B=B
   $$
-  
+
   $$
   C = QR
   $$
